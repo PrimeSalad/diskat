@@ -35,44 +35,68 @@ export default function Letter() {
           <p className="font-bold italic text-rose text-xl">dear babu,</p>
           
           <p>
-            i don’t really know how to put everything into perfect words, but i’ll try anyway.
+            i want to say this properly, not in a perfect way, but in a real way.
           </p>
           
           <p>
-            sometimes i catch myself just thinking about you in the middle of ordinary moments, like nothing special is happening, but somehow you’re still there in my mind. it’s a quiet kind of feeling, not dramatic, just something steady that i can’t ignore.
+            sorry if there are times na nataasan kita ng boses or naging harsh ako during arguments. i know sometimes when emotions get ahead of me, i say things in a way that i don’t really mean, or in a tone that hurts more than it should. hindi ko agad napapansin habang nangyayari, pero after everything calms down, doon ko nare-realize na mali pala ako.
           </p>
           
           <p>
-            being with you feels soft in a way i didn’t expect. like life is still the same, but somehow it feels lighter when i know you’re part of it.
+            and honestly, i don’t like that version of myself when it happens.
+          </p>
+          
+          <p>
+            you don’t deserve to be spoken to like that. you don’t deserve to feel like you’re being attacked or misunderstood just because we are trying to talk about something. i want you to feel safe with me, even when we disagree. especially when we disagree.
           </p>
 
           <p>
-            i don’t want to rush anything with us. i just want to stay in this slowly, learn you more in the simplest ways, and let things grow without forcing them. no pressure, no pretending, just whatever this naturally becomes.
+            i know we’re still learning each other. we’re still adjusting, still figuring out how to handle things properly. minsan pareho tayong emotional, minsan pareho tayong may pride, and minsan nauuwi sa arguments na hindi na natin alam paano nagsimula. but kahit ganun, i don’t want us to stay in that cycle.
           </p>
 
           <p>
-            i like the idea of simple days with you. not always something big or planned, just normal moments where we talk about random things, sit together, laugh at nothing, or just exist beside each other without needing a reason.
+            i want us to be better at handling those moments. not perfect, but better.
           </p>
 
           <p>
-            i know we’re still figuring things out, and that’s okay. i don’t expect everything to be perfect. i just hope we learn how to be gentle with each other even on days that don’t feel easy.
+            like when things start getting heated, i want us to learn how to pause a bit. hindi yung biglang sabay sabay lahat ng sinasabi habang galit, but giving each other space to think. then coming back kapag mas kalmado na, para maayos natin ng maayos, hindi yung may nasasaktan lang.
           </p>
 
           <p>
-            i’m not trying to rush the story between us. i just want to be here for it, present and real, and see where it naturally goes.
+            i don’t want arguments to be something that breaks us or leaves distance between us. i want it to be something we can learn from, something that helps us understand each other more instead of pushing us away.
           </p>
 
           <p>
-            and honestly, i’m glad it’s you.
+            and i also want you to know, i’m not blaming you for anything here. i’m looking at myself too. may mga bagay ako na kailangan ko ayusin, especially how i react when i’m overwhelmed or emotional. i’m trying to work on that slowly, even if it’s not easy.
           </p>
 
           <p>
-            this is just the beginning, and i’m kind of excited to see how the rest of it feels with you.
+            i just hope you can see that i’m aware, and i’m trying.
+          </p>
+
+          <p>
+            because at the end of the day, even after misunderstandings, even after silence, even after moments na hindi tayo okay, i still choose you. not because everything is easy, but because i want to learn how to be better with you through everything.
+          </p>
+
+          <p>
+            i don’t want a relationship where we just stay when things are good. i want a relationship where we learn how to stay even when things are not.
+          </p>
+
+          <p>
+            and if i’m being honest, i still want you in all versions of my days. the good ones, the quiet ones, and even the messy ones where we are still figuring everything out.
+          </p>
+
+          <p>
+            i hope we don’t give up on learning each other properly. i hope we keep trying, even when it’s hard, even when we get tired, even when we don’t fully understand each other in the moment.
+          </p>
+
+          <p>
+            i’m here, and i’m trying, and i want you to know that. i love you so much mahal!
           </p>
           
           <div className="pt-12 flex flex-col items-end">
             <p className="italic text-charcoal/60">love,</p>
-            <p className="text-2xl font-heading text-rose font-bold mt-2 text-right">your boyfriend</p>
+            <p className="text-2xl font-heading text-rose font-bold mt-2 text-right">elps</p>
           </div>
         </div>
 

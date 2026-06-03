@@ -15,8 +15,8 @@ const questrial = Questrial({
 });
 
 export const metadata: Metadata = {
-  title: "Diskat | For My Favorite Person",
-  description: "A digital safe haven and memory vault.",
+  title: "Éternité | For My Favorite Person",
+  description: "Ours.",
 };
 
 export default function RootLayout({
